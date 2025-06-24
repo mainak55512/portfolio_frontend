@@ -3,7 +3,7 @@
 
 html {
 	/* background-color: rgba(27, 38, 54, 1); */
-	background-image: url('../static/resource/background_image.jpg');
+	background-image: url('resource/background_image.jpg');
 	background-size: 100%;
 	background-attachment: fixed;
 	padding: 10px;
